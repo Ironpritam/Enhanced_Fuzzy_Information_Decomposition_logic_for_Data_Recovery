@@ -1,2 +1,2 @@
 # MTP-2
-# Enhanced_Fuzzy_Information_Decomposition_logic_for_Data_Recovery
+# Enhanced Fuzzy Information Decomposition logic for Data Recovery
